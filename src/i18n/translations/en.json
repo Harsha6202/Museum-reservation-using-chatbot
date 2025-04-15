@@ -1,0 +1,257 @@
+{
+  "museums": {
+    "national_museum": {
+      "name": "National Museum",
+      "description": "India's premier cultural institution housing a vast collection of artworks."
+    },
+    "csmvs": {
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "description": "Prince of Wales Museum showcasing Indian history and culture."
+    },
+    "indian_museum": {
+      "name": "Indian Museum",
+      "description": "India's oldest and largest museum with rare collections."
+    },
+    "salar_jung": {
+      "name": "Salar Jung Museum",
+      "description": "One of the world's largest museums showcasing a personal art collection."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Explore India's rich cultural heritage",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to preserve and showcase India's rich cultural heritage, serving as a source of knowledge and inspiration for present and future generations."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be a globally recognized museum and a leading center for Indian art, culture, and history."
+    },
+    "features": {
+      "title": "Our Features",
+      "history": {
+        "title": "Rich History",
+        "description": "Century-old artworks and artifacts collection"
+      },
+      "curators": {
+        "title": "Expert Curators",
+        "description": "Experienced and knowledgeable museum experts"
+      },
+      "awards": {
+        "title": "Awards and Recognitions",
+        "description": "National and international recognition for excellence"
+      },
+      "facilities": {
+        "title": "Modern Facilities",
+        "description": "Advanced exhibition and conservation facilities"
+      }
+    },
+    "stats": {
+      "visitors": "Annual Visitors",
+      "artifacts": "Artworks",
+      "staff": "Staff",
+      "years": "Years of Experience"
+    },
+    "team": {
+      "title": "Our Team"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help you",
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address"
+      },
+      "phone": {
+        "title": "Phone",
+        "tollFree": "Toll-Free"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "hours": {
+        "title": "Operating Hours",
+        "weekdays": "Monday - Friday: 9:00 AM - 5:00 PM",
+        "weekends": "Saturday - Sunday: 10:00 AM - 4:00 PM"
+      }
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Your message has been successfully sent!"
+    }
+  },
+  "timings": {
+    "title": "Museum Timings",
+    "subtitle": "Visiting hours and important information for our museums",
+    "importantNotice": "Important Notice",
+    "holidayNotice": "Museum closed on national holidays",
+    "entryFees": "Entry Fees",
+    "museums": {
+      "national": {
+        "name": "National Museum",
+        "description": "India's premier cultural institution preserving a vast collection of artworks."
+      },
+      "csmvs": {
+        "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+        "description": "Prince of Wales Museum showcasing Indian history and culture."
+      },
+      "indian": {
+        "name": "Indian Museum",
+        "description": "India's oldest and largest museum with rare collections."
+      },
+      "salarjung": {
+        "name": "Salar Jung Museum",
+        "description": "One of the world's largest museums showcasing a personal art collection."
+      }
+    }
+  },
+  "chatbot": {
+    "title": "Museum Booking Assistant",
+    "typing": "Assistant is typing...",
+    "inputPlaceholder": "Type your message here...",
+    "emailPrompt": "Please provide your email address:",
+    "invalidEmail": "Please provide a valid email address.",
+    "museumPrompt": "Please select a museum to visit:",
+    "unhandledResponse": "I'm not sure how I can assist with that. Would you like to start booking tickets?",
+    "suggestions": {
+      "booking": "Book Tickets",
+      "info": "Museum Information",
+      "contact": "Contact Support",
+      "faq": "FAQ"
+    },
+    "conversation": {
+      "greeting": "Namaste! I am your Museum Booking Assistant. I can help you book tickets, check museum timings, or answer any questions you have.",
+      "nameAsk": "To get started, may I know your name?",
+      "nameConfirm": "Nice to meet you, {{name}}! How can I assist you today?",
+      "emailAsk": "Can you share your email address for booking confirmation?",
+      "emailConfirm": "Thank you! I will send the booking confirmation to {{email}}.",
+      "phoneAsk": "May I take your phone number for important updates about your visit?",
+      "phoneConfirm": "Perfect! I will send any important updates to {{phone}}.",
+      "museumSelect": "Which museum would you like to visit? I can help you choose based on your interests.",
+      "dateAsk": "When would you like to visit? I can show you available dates and peak times.",
+      "visitorAsk": "How many visitors will be included? We have special pricing for children and seniors.",
+      "confirmBooking": "Great! I have all the details. Would you like to proceed with the booking?",
+      "paymentPrompt": "Please select your preferred payment method to complete the booking.",
+      "bookingSuccess": "Great! Your booking is confirmed. I have sent the details to your email.",
+      "helpOffer": "Would you like to know more about your visit?"
+    },
+    "errors": {
+      "invalidName": "I didn't understand that. Can you provide your full name?",
+      "invalidEmail": "That email address doesn't look right. Can you check and try again?",
+      "invalidPhone": "I need a valid phone number to proceed. Please enter a number with the area code.",
+      "bookingFailed": "Sorry, but I couldn't complete the booking. Shall we try again?"
+    },
+    "buttons": {
+      "start": "Start Booking",
+      "continue": "Continue",
+      "modify": "Modify Details",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    }
+  },
+  "welcome": "Namaste! Welcome to the Museum Ticket Booking Assistant. How can I assist you today?",
+  "greetUser": "Nice to meet you, {{name}}! How can I assist you today?",
+  "bookingQuestion": "Would you like to book museum tickets?",
+  "dateQuestion": "Would you like to book a date for your visit?",
+  "ticketTypeQuestion": "How many tickets do you need and for which age groups?",
+  "ageGroups": {
+    "adult": "Adult",
+    "child": "Child",
+    "senior": "Senior",
+    "tourist": "Tourist"
+  },
+  "tourQuestion": "Would you like to add a guided tour or special exhibition access?",
+  "totalPrice": "Your total amount is ₹{{amount}}. Would you like to proceed with payment?",
+  "paymentMethod": "Please select your payment method:",
+  "paymentProcessing": "Your payment is being processed... Please wait.",
+  "paymentSuccess": "Payment Successful! Your booking is confirmed.",
+  "deliveryMethod": "Would you like to receive your tickets via email or SMS?",
+  "ticketGenerated": "Here is your e-ticket:",
+  "ticketInstructions": "Please present this ticket at the museum entrance. Enjoy your visit!",
+  "helpQuestion": "Is there anything else I can assist you with today, {{name}}?",
+  "thankYou": "Thank you for using the Museum Ticket Booking Assistant. Have a great visit!",
+  "typeMessage": "Type your message or select an option below...",
+  "quickReplies": {
+    "bookTickets": "Book Tickets",
+    "checkAvailability": "Check Availability",
+    "viewPricing": "View Pricing",
+    "contactSupport": "Contact Support"
+  },
+  "navigation": {
+    "home": "Home",
+    "exhibitions": "Exhibitions",
+    "planVisit": "Plan Your Visit",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "admin": "Admin",
+    "bookNow": "Book Now"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Explore Our Rich Cultural Heritage",
+      "subtitle": "Experience the beauty of art, history, and culture at the National Museum.",
+      "bookTickets": "Book Tickets"
+    },
+    "info": {
+      "openingHours": {
+        "title": "Opening Hours",
+        "weekdays": "Tuesday - Sunday: 10:00 AM - 6:00 PM",
+        "monday": "Monday: Closed"
+      },
+      "ticketPrices": {
+        "title": "Ticket Prices",
+        "adult": "Adult: ₹200",
+        "student": "Student: ₹100",
+        "children": "Children (under 12): Free"
+      },
+      "location": {
+        "title": "Location",
+        "address": "123 Heritage Road",
+        "city": "New Delhi, 110001",
+        "country": "India"
+      }
+    }
+  },
+  "options": {
+    "yes": "Yes",
+    "no": "No",
+    "email": "Email",
+    "sms": "SMS",
+    "guidedTour": "Add Guided Tour",
+    "specialExhibit": "Special Exhibition Access",
+    "proceed": "Proceed to Payment",
+    "cancel": "Cancel"
+  },
+  "payment": {
+    "methods": {
+      "card": "Credit/Debit Card",
+      "upi": "UPI",
+      "wallet": "Digital Wallet"
+    },
+    "amount": "Total Amount",
+    "processing": "Processing Payment",
+    "success": "Payment Successful",
+    "failed": "Payment Failed"
+  },
+  "ticket": {
+    "title": "E-Ticket",
+    "number": "Ticket Number",
+    "date": "Visit Date",
+    "time": "Visit Time",
+    "museum": "Museum",
+    "visitors": "Number of Visitors",
+    "type": "Ticket Type",
+    "addons": "Add-ons",
+    "amount": "Amount Paid",
+    "print": "Print Ticket",
+    "qrCode": "Show QR Code"
+  }
+}
